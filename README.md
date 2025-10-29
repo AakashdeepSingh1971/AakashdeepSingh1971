@@ -1,16 +1,4 @@
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=AakashdeepSingh1971&show_icons=true&theme=dracula&hide_border=true&bg_color=&count_private=true&include_all_commits=true&border_radius=20"/></a>
-  
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashdeepSingh1971&layout=compact&theme=dracula&hide_border=true&border_radius=20"/></a>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img  src="https://github-profile-trophy.vercel.app/?username=AakashdeepSingh1971&no-frame=true&theme=dracula&margin-w=20"/></a>
-
-
-
 
 <h1 align="center">👋 Hi, I'm Aakashdeep Singh</h1>
 
@@ -115,6 +103,19 @@ Frontend Developer | React.js • Next.js • TypeScript • Tailwind CSS | Flut
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakashdeepsingh1971&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+<div align="center">
+
+<img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/anime-hello.gif" width="120" alt="Waving anime character" />
+
+### ありがとう！ Thanks for visiting my profile ✨
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=aakashdeepsingh1971&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
+
+<p>
+  <em>“Keep coding. Keep creating. Keep evolving.”</em> 🌸
+</p>
+
+</div>
+
