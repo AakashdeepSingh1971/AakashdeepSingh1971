@@ -105,7 +105,7 @@ Frontend Developer | React.js • Next.js • TypeScript • Tailwind CSS | Flut
 
 <div align="center">
 
-<img src="https://api.waifu.pics/sfw/wave" width="200" alt="Random anime wave" />
+<img src="https://nekos.best/api/v2/waifu" width="200" alt="Random anime wave" />
 
 ### ありがとう！ Thanks for visiting my profile ✨
 
