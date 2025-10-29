@@ -104,7 +104,7 @@ Frontend Developer | React.js • Next.js • TypeScript • Tailwind CSS | Flut
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AakashdeepSingh1971/<repo-name>/main/assets/anime/wave.gif" width="200" alt="Random anime" />
+  <img src="https://anime-gif-app.vercel.app/api/random-gif" width="200" alt="Random anime" />
   <h3>ありがとう！ Thanks for visiting my profile ✨</h3>
   <p><img src="https://komarev.com/ghpvc/?username=aakashdeepsingh1971&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" /></p>
   <p><em>“Keep coding. Keep creating. Keep evolving.”</em> 🌸</p>
