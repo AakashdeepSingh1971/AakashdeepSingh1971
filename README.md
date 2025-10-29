@@ -105,7 +105,7 @@ Frontend Developer | React.js • Next.js • TypeScript • Tailwind CSS | Flut
 
 <div align="center">
 
-<img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/anime-hello.gif" width="120" alt="Waving anime character" />
+<img src="https://api.waifu.pics/sfw/wave" width="200" alt="Random anime wave" />
 
 ### ありがとう！ Thanks for visiting my profile ✨
 
@@ -118,4 +118,5 @@ Frontend Developer | React.js • Next.js • TypeScript • Tailwind CSS | Flut
 </p>
 
 </div>
+
 
