@@ -54,9 +54,10 @@ Frontend Developer | React.js • Next.js • TypeScript • Tailwind CSS | Flut
 
 ### 💼 Featured Projects
 
-#### 🏢 [Store It — Inventory Management Dashboard](https://github.com/aakashdeepsingh1971/store-it)
-> Data-driven dashboard for inventory tracking with advanced filtering, analytics, and live updates.  
-> 🧩 Tech Stack: `Next.js` · `TypeScript` · `Tailwind CSS` · `Chart.js` · `Appwrite`
+#### 💰 [Expense Tracker Dashboard](https://expense-tracker-dashboard-hazel.vercel.app/)
+> A modern **personal finance dashboard** for tracking expenses, analyzing spending patterns, and visualizing category-based breakdowns.  
+> Features include **JWT authentication**, **dynamic charts**, **file uploads (receipts)**, and a fully responsive UI.  
+> 🧩 **Tech Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Recharts` · `MongoDB` · `UploadThing`
 
 #### 🧠 [Portfolio Template — Animated Developer Portfolio](https://portfolio-ooxl.vercel.app/)
 > Fully responsive developer portfolio with motion design and modular content system.  
