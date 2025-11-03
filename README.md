@@ -59,6 +59,10 @@ Frontend Developer | React.js • Next.js • TypeScript • Tailwind CSS | Flut
 > Features include **JWT authentication**, **dynamic charts**, **file uploads (receipts)**, and a fully responsive UI.  
 > 🧩 **Tech Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Recharts` · `MongoDB` · `UploadThing`
 
+**🧑‍💼 Demo Account:**  
+Email — `admin@admin.com`  
+Password — `admin123`
+
 #### 🧠 [Portfolio Template — Animated Developer Portfolio](https://portfolio-ooxl.vercel.app/)
 > Fully responsive developer portfolio with motion design and modular content system.  
 > 🧩 Tech Stack: `Next.js` · `React.js` · `Tailwind CSS` · `Framer Motion`
