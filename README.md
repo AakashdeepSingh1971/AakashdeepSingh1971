@@ -1,4 +1,4 @@
-
+<img width="498" height="254" alt="image" src="https://github.com/user-attachments/assets/3041862e-b3ee-4fb5-9ef6-dae95a755473" />
 
 <h1 align="center">👋 Hi, I'm Aakashdeep Singh</h1>
 
@@ -109,7 +109,8 @@ Password — `admin123`
 ---
 
 <div align="center">
-  <img src="https://anime-gif-app.vercel.app/api/random-gif" width="200" alt="Random anime" />
+  <img src="
+https://i.waifu.pics/gGX~reJ.gif" width="200" alt="Random anime" />
   <h3>ありがとう！ Thanks for visiting my profile ✨</h3>
   <p><img src="https://komarev.com/ghpvc/?username=aakashdeepsingh1971&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" /></p>
   <p><em>“Keep coding. Keep creating. Keep evolving.”</em> 🌸</p>
